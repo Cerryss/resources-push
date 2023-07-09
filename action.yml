@@ -7,11 +7,11 @@ inputs:
     default: true
     type: boolean
   serverIP:
-    description: "IP of the FiveM server"
+    description: "IP of the server"
     required: true
     default: ""
   serverPort:
-    description: "Port of the FiveM server"
+    description: "Port of the server"
     required: false
     default: 30120
   rconPassword:
